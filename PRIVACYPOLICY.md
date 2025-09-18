@@ -4,7 +4,7 @@ Effective Date: September 18, 2025
 Last Updated: September 18, 2025  
 
 LoopLend (“we,” “our,” or “us”) is a mobile app and platform designed to foster a hyper-local sharing economy, enabling users to lend and borrow physical items (e.g., tools, gear, gadgets) within their communities. We are committed to protecting your privacy and building trust through transparency. This Privacy Policy explains how we collect, use, store, protect, and share your information when you use the LoopLend mobile app, website, and related services (collectively, the “Services”). By using LoopLend, you agree to this Privacy Policy.  
-This policy is publicly available on our GitHub repository at https://github.com/LoopLend/legal-policies. The version on our website (https://looplend.app/privacy) and in-app is authoritative. Historical versions are available on GitHub for transparency.
+This policy is publicly available on our GitHub repository at https://github.com/Looplend-legal-policies. This version and the in-app version is authoritative. Historical versions are available on GitHub for transparency.
 
 1. Our Commitment to Privacy
 LoopLend’s mission is to create a sustainable, trust-driven platform for local item sharing, reducing waste and building community connections. We do not sell your personal information. Your data is used solely to provide, improve, and secure our Services, prevent fraud, and comply with legal obligations. Our “No data selling” commitment is core to our community-driven ethos, ensuring safe and fun lending loops for all users.
