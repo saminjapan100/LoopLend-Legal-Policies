@@ -146,7 +146,7 @@ b. CCPA Rights (California Residents)
 
 Right to Know: Request details about the categories and specific pieces of personal information we collect, use, or share (e.g., account, location, transaction data).
 Right to Delete: Request deletion of your personal information, subject to legal exceptions (e.g., tax records).
-Right to Opt-Out of Sale: LoopLend does not sell personal information, but you can opt out of ad-related data sharing (e.g., AdMob device ID usage) via device settings or by emailing privacy@looplend.app. Visit https://looplend.app/do-not-sell for details.
+Right to Opt-Out of Sale: LoopLend does not sell personal information, but you can opt out of ad-related data sharing (e.g., AdMob device ID usage) via device settings or by emailing privacy@looplend.app. 
 Non-Discrimination: We will not discriminate against you for exercising your CCPA rights.
 
 c. GDPR Rights (EEA Residents)
@@ -173,8 +173,7 @@ We may update this Privacy Policy to reflect changes in our Services or legal re
 13. Contact Us
 For questions, concerns, or to exercise your privacy rights, contact us at:
 LoopLend Privacy Team📧 
-privacy@looplend.app🌐 
-https://looplend.app/privacy  
+privacy@looplend.app🌐   
 
 For transparency, this policy and its historical versions are available on our GitHub repository at https://github.com/LoopLend/legal-policies.
 
@@ -190,4 +189,4 @@ Your Control: Opt out of ads, notifications, or location sharing anytime. Reques
 
 Security: Your data is encrypted, with access restricted to authenticated users. Blurred IDs and photo proofs are securely stored.  
 
-Questions? Email us at privacy@looplend.app—we’re here to help! 🔄
+Questions? Email us at privacy@looplend.app — we’re here to help! 🔄
