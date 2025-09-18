@@ -4,7 +4,7 @@ Effective Date: September 18, 2025
 Last Updated: September 18, 2025  
 
 Welcome to LoopLend (“LoopLend,” “we,” “our,” or “us”), a community-driven platform for lending and borrowing physical items (e.g., tools, gear, gadgets) within a local radius using a token-based system. These Terms of Service (“Terms”) govern your use of the LoopLend mobile application, website, and related services (collectively, the “Services”). By downloading, installing, creating an account, or using the Services, you agree to be bound by these Terms and our Privacy Policy. If you do not agree, please do not use our Services.
-These Terms are publicly available on our GitHub repository at https://github.com/LoopLend/legal-policies. The version on our website (https://looplend.app/terms) and in-app is authoritative. Historical versions are available on GitHub for transparency.
+These Terms are publicly available on our GitHub repository at https://github.com/LoopLend-legal-policies. This version and the in-app version are authoritative. Historical versions are available on GitHub for transparency.
 
 
 1. Purpose of LoopLend
@@ -203,12 +203,15 @@ LoopLend is not liable for any failure or delay in providing the Services due to
 
 
 18. Changes to Terms
-We may update these Terms periodically to reflect changes in our Services or legal requirements. Material changes will be communicated via in-app notifications (using Firebase Cloud Messaging), email, or an updated GitHub commit at https://github.com/LoopLend/legal-policies. Continued use of the Services after updates constitutes acceptance of the revised Terms.
+We may update these Terms periodically to reflect changes in our Services or legal requirements. Material changes will be communicated via in-app notifications (using Firebase Cloud Messaging), email, or an updated GitHub commit at https://github.com/LoopLend-legal-policies. Continued use of the Services after updates constitutes acceptance of the revised Terms.
 
 
 19. Contact Us
-For questions or concerns about these Terms, contact us at:LoopLend Legal Team📧 legal@looplend.app🌐 https://looplend.app/terms  
-For transparency, these Terms and their historical versions are available on our GitHub repository at https://github.com/LoopLend/legal-policies.
+For questions or concerns about these Terms, contact us at:
+LoopLend Legal Team📧 
+legal@looplend.app
+  
+For transparency, these Terms and their historical versions are available on our GitHub repository at https://github.com/LoopLend-legal-policies.
 
 
 20. Summary for Users
@@ -223,6 +226,7 @@ Tokens & Fees: Buy tokens ($0.99-$4.99), pay double-token deposits, and a 5% fee
 Safety: We use photo proof, ID verification, and fraud checks to keep loops safe. Report issues with one tap.  
 
 Your Risk: Use LoopLend at your own risk—verify users and insure valuables. We’re not liable for damages.  
+
 Questions? Email legal@looplend.app. 
 
 Let’s keep the loops strong! ⏰
