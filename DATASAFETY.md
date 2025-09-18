@@ -219,7 +219,7 @@ What We Collect: Email, optional ID/photos, temporary location (24hr cache), tok
 
 How We Use It: To match you with nearby items, verify transactions, prevent fraud, and improve the app.  
 
-Sharing: Only with trusted providers (e.g., Firebase, Google Maps) and loop participants (e.g., your profile photo). We don’t sell your data.  
+Sharing: Only with trusted providers (e.g., Firebase, Google Maps) and loop participants (e.g., your profile photo). We don’t sell your data.   
 
 Your Control: Delete your data, opt out of ads, analytics, or notifications, and disable location anytime.  
 
