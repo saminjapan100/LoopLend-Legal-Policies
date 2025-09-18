@@ -4,7 +4,7 @@ Effective Date: September 18, 2025
 Last Updated: September 18, 2025  
 
 This Data Safety Documentation explains what user data LoopLend collects, how it’s used, and whether it’s shared with third parties, in compliance with Google Play Data Safety requirements. LoopLend is a hyper-local sharing platform that enables users to lend and borrow physical items (e.g., tools, gear, gadgets) within a 5-mile radius (or 10-mile for premium users) using a token-based system. We collect only the minimum data needed to provide a secure, trust-driven, and sustainable lending experience. We do not sell your personal data.
-This document is publicly available on our GitHub repository at https://github.com/LoopLend/legal-policies. The version on our website (https://looplend.app/data-safety) and in-app is authoritative. Historical versions are available on GitHub for transparency.
+This document is publicly available on our GitHub repository at https://github.com/LoopLend-legal-policies. This version and the in-app version are authoritative. Historical versions are available on GitHub for transparency.
 
 1. Overview
 LoopLend is committed to protecting your data and fostering trust in our community-driven platform. We use industry-standard security measures, including encryption in transit (HTTPS/TLS) and at rest (Firebase defaults), and restrict access to authenticated users via Firebase security rules. This document details the data we collect, its purpose, sharing practices, and your control options, ensuring transparency for our users.
@@ -201,14 +201,14 @@ LoopLend is not directed to children under 13 (or 16 in the EEA under GDPR). We 
 
 
 8. Policy Updates
-We may update this Data Safety Documentation to reflect new features, SDK changes, or regulatory requirements. Material changes will be communicated via in-app notifications (using Firebase Cloud Messaging), email, or an updated GitHub commit at https://github.com/LoopLend/legal-policies. The “Last Updated” date will reflect the latest version.
+We may update this Data Safety Documentation to reflect new features, SDK changes, or regulatory requirements. Material changes will be communicated via in-app notifications (using Firebase Cloud Messaging), email, or an updated GitHub commit at https://github.com/LoopLend-legal-policies. The “Last Updated” date will reflect the latest version.
 
 
 9. Contact Us
 For questions or concerns about data safety, contact:
 LoopLend Privacy Team📧 
 privacy@looplend.app🌐 
-https://looplend.app/data-safety  
+  
 For transparency, this document and its historical versions are available on our GitHub repository at https://github.com/loopland-legal-policies.
 
 
